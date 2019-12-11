@@ -35,6 +35,12 @@
 |想了解类似展品的属性、历史资料。|想要知道百科|次重要  | 展品信息科普|[百度通用物体和场景识别API](https://ai.baidu.com/tech/imagerecognition/general) | 
 # 二、原型设计
 ## 交互及界面设计：
+- 1、首页：用户进入小口袋博物馆APP后，可选择不同功能。
+![小口袋博物馆APP 首页.png](https://upload-images.jianshu.io/upload_images/9509773-c9552a08906e97e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 2、导览页面，可以选择展品进行语音收听信息。
+![小口袋博物馆APP 导览.png](https://upload-images.jianshu.io/upload_images/9509773-d918802d4d599784.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 ## 信息设计：
 ## 原型文档：
 # 三、API 产品使用关键AI或机器学习之API的输出入展示
