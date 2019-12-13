@@ -19,7 +19,7 @@
 - 主要通过给用户展品导览、展品信息科普、推荐博物馆路线等功能。
 ## 核心价值与用户痛点：
 - 用户痛点：不清楚博物馆内人数的状况，害怕展厅人山人海，影响观展的效果。
-→. 用户在使用app时，可快速查询到展厅内的人流量统计，用颜色显示提醒用户。避免因人数过多而造成浪费时间，影响观展效果，有效率的使用时间参观博物馆。
+→. 用户在使用app时，可快速查询到展厅内的人流量统计，用颜色显示提醒用户。避免因人数过多而造成浪费时间，影响观展效果。
 - 用户痛点：想了解类似展品的属性、历史资料，却不知怎么获得信息。
 →. 用户在使用app时，可拍照识别，识别结果给出相关内容推荐，
 - 用户痛点：想边听边看，但是有些博物馆的导览解说机可能要收费，且存在卫生问题。
@@ -37,11 +37,17 @@
 ## 交互及界面设计：
 - 1、首页：用户进入小口袋博物馆APP后，可选择不同功能。
 ![小口袋博物馆APP 首页.png](https://upload-images.jianshu.io/upload_images/9509773-c9552a08906e97e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 2、导览页面，可以选择展品进行语音收听信息。
+- 2、导览页面：可以选择展品进行语音收听信息。
 ![小口袋博物馆APP 导览.png](https://upload-images.jianshu.io/upload_images/9509773-d918802d4d599784.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 3、人流情况页面：可通过查看人流密集情况决定去哪个展厅观展，错开人流高峰期，提高观赏体验值。
+![小口袋博物馆APP 人流情况.png](https://upload-images.jianshu.io/upload_images/9509773-4a0887d9e01e93a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 4、语音设置：可通过自定义的调节语音播放声音，根据个性化的喜好设置，获取更优质的交互体验。
+![小口袋博物馆APP 语音设置.png](https://upload-images.jianshu.io/upload_images/9509773-eaeedd7c05a3ce5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 ## 信息设计：
+
 ## 原型文档：
 # 三、API 产品使用关键AI或机器学习之API的输出入展示
 ## 使用水平：
