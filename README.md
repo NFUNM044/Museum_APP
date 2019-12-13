@@ -50,10 +50,9 @@
 
 
 
-
-
-
 ## 信息设计：
+
+### [小口袋博物馆APP可交互原型设计](http://jiayingb.gitee.io/api_museum_app)  ← 可点击查看
 
 ## 原型文档：
 # 三、API 产品使用关键AI或机器学习之API的输出入展示
