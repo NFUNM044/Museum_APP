@@ -7,14 +7,14 @@
 | APP类别 | 旅游、教育  |
 # PRD价值主张设计：
 ## 产品介绍：
-- 小口袋博物馆App是一款提供给用户具有地图导航功能、馆内展品分布人流量、展品信息科普等功能的APP。致力于帮助用户在浏览参观博物馆时获得更好的体验。
+- 小口袋博物馆App是一款提供给用户具有展品信息语音播报、馆内展品分布人流量、展品信息科普等功能的APP。致力于帮助用户在浏览参观博物馆时获得更好的体验。
 
 ## 价值宣言：
-小口袋博物馆APP将通过语音合成、人流量统计、通用物体和场景识别、地图导航等api应用接口，为用户打造个性化服务与新型体验。
+小口袋博物馆APP将通过语音合成、人流量统计、通用物体和场景识别、等api应用接口，为用户打造个性化服务与新型体验。
 
 - 1、人流量统计API：用户可根据查看数据，可错峰参观，避免到人流拥挤的展馆参观，减少用户时间成本。
-- 2通用物体和场景识别API、语音合成API：用户可根据拍摄照片，识别图片中物体名称并会推荐出相关的百科信息，并通过语音合成，自定义场景需求对音库的语速、音调、音量进行灵活设置，满足个性化需求，提高用户交互体验。
-- 3 、高德地图API：用户可根据城市定位，搜索不同是博物馆所在地方，或是搜索博物馆出口，并有路径规划，推荐路线让你选择最佳路线。
+- 2通用物体和场景识别API：用户可根据拍摄照片，识别图片中物体名称并会推荐出相关的百科信息。
+- 3、语音合成API：通过语音合成，自定义场景需求对音库的语速、音调、音量进行灵活设置，满足个性化需求，提高用户交互体验。
 ## 核心价值（最小可行性产品）：
 - 主要通过给用户展品导览、展品信息科普、推荐博物馆路线等功能。
 ## 核心价值与用户痛点：
@@ -36,13 +36,20 @@
 # 二、原型设计
 ## 交互及界面设计：
 - 1、首页：用户进入小口袋博物馆APP后，可选择不同功能。
-![小口袋博物馆APP 首页.png](https://upload-images.jianshu.io/upload_images/9509773-c9552a08906e97e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![小口袋博物馆APP 首页.png](https://upload-images.jianshu.io/upload_images/9509773-7e91ef5b6326d126.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 - 2、导览页面：可以选择展品进行语音收听信息。
 ![小口袋博物馆APP 导览.png](https://upload-images.jianshu.io/upload_images/9509773-d918802d4d599784.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 - 3、人流情况页面：可通过查看人流密集情况决定去哪个展厅观展，错开人流高峰期，提高观赏体验值。
 ![小口袋博物馆APP 人流情况.png](https://upload-images.jianshu.io/upload_images/9509773-4a0887d9e01e93a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - 4、语音设置：可通过自定义的调节语音播放声音，根据个性化的喜好设置，获取更优质的交互体验。
 ![小口袋博物馆APP 语音设置.png](https://upload-images.jianshu.io/upload_images/9509773-eaeedd7c05a3ce5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 5、看一看：通过对物品拍照，识别图片中物体名称并会推荐出相关的百科信息。
+![小口袋博物馆APP 看一看.png](https://upload-images.jianshu.io/upload_images/9509773-a1e87b3813dc9cef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
 
 
 
