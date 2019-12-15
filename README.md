@@ -61,6 +61,10 @@
 
 ## 原型文档：
 ### [小口袋博物馆APP可交互原型设计](http://jiayingb.gitee.io/api_museum_app)  ← 可点击查看
+### [原型文件，供下载](https://github.com/NFUNM044/prototype_download_museum) ← 可点击下载
+
+
+
 # 三、API 产品使用关键AI或机器学习之API的输出入展示
 ## 使用水平：
 ## 使用比较分析：
