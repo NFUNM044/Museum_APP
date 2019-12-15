@@ -75,5 +75,28 @@
 
 # 三、API 产品使用关键AI或机器学习之API的输出入展示
 ## 使用水平：
+
+# 三、API 产品使用关键AI或机器学习之API的输出入展示
+## 使用水平：
+|功能| 输入  | 输出|使用API|
+|:-:|:-:|:-:|:-:|
+| ⭐ 人流量统计 | 静态图片  |图片中人数统计|百度人流量统计API|
+| ⭐语音设置 | 文本  |可自定义的语音 |百度语音合成API|
+| 看一看 | 图片  |物品识别、百科信息|百度通用图像分析API|
+
+
+### 核心API测试：
+
+##### 可查看→ [jupyter测试代码【HTML】]()
+##### 可查看→ [jupyter测试代码【IPYNB】]()
+
+- 人流量测试与物品识别：
+![小口袋博物馆api测试.png](https://upload-images.jianshu.io/upload_images/9509773-26059ad62bd9e640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![小口袋博物馆api测试2.png](https://upload-images.jianshu.io/upload_images/9509773-b2aeaed76e869138.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
 ## 使用比较分析：
 ## 使用后风险报告：
