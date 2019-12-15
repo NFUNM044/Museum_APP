@@ -76,7 +76,6 @@
 # 三、API 产品使用关键AI或机器学习之API的输出入展示
 ## 使用水平：
 
-# 三、API 产品使用关键AI或机器学习之API的输出入展示
 ## 使用水平：
 |功能| 输入  | 输出|使用API|
 |:-:|:-:|:-:|:-:|
@@ -87,8 +86,8 @@
 
 ### 核心API测试：
 
-##### 可查看→ [jupyter测试代码【HTML】]()
-##### 可查看→ [jupyter测试代码【IPYNB】]()
+##### 可查看→ [jupyter测试代码【HTML】](https://github.com/NFUNM044/Museum_APP/blob/master/museum_api_test.html)
+##### 可查看→ [jupyter测试代码【IPYNB】](https://github.com/NFUNM044/Museum_APP/blob/master/museum_api_test.ipynb)
 
 - 人流量测试与物品识别：
 ![小口袋博物馆api测试.png](https://upload-images.jianshu.io/upload_images/9509773-26059ad62bd9e640.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
