@@ -54,6 +54,14 @@
 
 
 ## 信息设计：
+-  小口袋博物馆APP产品结构：
+![小口袋博物馆APP 产品结构.png](https://upload-images.jianshu.io/upload_images/9509773-681e2ce93edcf7cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
+
+
 - 小口袋博物馆APP运作流程：
 ![小口袋博物馆APP.jpg](https://upload-images.jianshu.io/upload_images/9509773-91f0f41491ec2cc1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
